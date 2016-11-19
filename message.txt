@@ -1,4 +1,8 @@
 # -testnotify
-1 
+2 
 ||| 
-Type your message here
+Hello from me
+
+[B][COLOR red] I can use bold red fonts[/COLOR][/B]
+
+This is a test message
