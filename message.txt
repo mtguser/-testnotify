@@ -1,7 +1,2 @@
 3 
 ||| 
-Hello from me
-
-[B][COLOR green] I can use bold red fonts[/COLOR][/B]
-
-This is a test message
