@@ -1,3 +1,12 @@
-3 
-||| 
-This is a test notification from ModTech Global.
+4 
+|||
+[B][COLOR White]Welcome to MODI Media Center 5.0 (MMC V) from ModTech Global.[/COLOR][/B]
+
+Changelog:
+1. MMC is now powered by Kodi v16 (Jarvis).
+2. New and improved submenus.
+3. New design and view modes.
+4. Added new tools for maintaining MMC.
+5. Fixed Pinoy_Ako plugin.
+6. Added new plugins.
+7. And many more...
