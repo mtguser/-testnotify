@@ -1,6 +1,6 @@
-6 
+7 
 |||
-<b>Welcome to MODI Media Center 5.0 /(MMC V/) from ModTech Global.</b>
+[B]Welcome to MODI Media Center 5.0 (MMC V) from ModTech Global.[/B]
 
 Changelog:
 1. MMC is now powered by Kodi v16 (Jarvis).
