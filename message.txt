@@ -1,12 +1,17 @@
-7 
+8 
 |||
-[B]Welcome to MODI Media Center 5.0 (MMC V) from ModTech Global.[/B]
+[B]===== WELCOME TO MODI MEDIA CENTER 5.0 by MODTECH GLOBAL =====[/B]
 
-Changelog:
-1. MMC is now powered by Kodi v16 (Jarvis).
-2. New and improved submenus.
-3. New design and view modes.
-4. Added new tools for maintaining MMC.
-5. Fixed Pinoy_Ako plugin.
-6. Added new plugins.
-7. And many more...
+WHAT'S NEW:
+ 1. Improved performance & Stability.
+ 2. Improved video and audio playback features.
+ 3. Improved look and interface.
+ 4. Lighter code structure.
+ 5. Improved media scrapers.
+ 6. Fixed & added several addons.
+ 7. Access maintenance tools & MODI apps from within MMC.
+ 8. Improved internal coding for better performance.
+ 9. Fixed: Small issues in layout.
+ 10. Added "FORCE CLOSE MODI" for faster shutdown.
+ 11. Now using Kodi 16.1(Jarvis).
+ 12. And more...
