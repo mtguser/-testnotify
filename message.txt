@@ -15,3 +15,5 @@ WHAT'S NEW:
  10. Added "FORCE CLOSE MODI" for faster shutdown.
  11. Now using Kodi 16.1(Jarvis).
  12. And more...
+
+Please report bugs and issues to helpdesk@modtechglobal.com or go to www.modtechglobal.com/helpdesk. Thank you.
