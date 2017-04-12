@@ -14,6 +14,6 @@ WHAT'S NEW:
  9. Improved cache handling and buffering issues.
  10. Many more...
 
-Please report bugs and issues to helpdesk@modtechglobal.com or go to www.modtechglobal.com/helpdesk. Thank you.
+Please report bugs and issues to helpdesk@modtechglobal.com or go to [B][COLOR white]www.modtechglobal.com/helpdesk[/COLOR][/B]. Thank you.
 
 Released April 12, 2017
