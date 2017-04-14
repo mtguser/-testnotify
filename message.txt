@@ -1,6 +1,6 @@
 8 
 |||
-[B]===== WELCOME TO MODI MEDIA CENTER 5.1 by MODTECH GLOBAL =====[/B]
+[B]===== WELCOME TO MODI MEDIA CENTER 5.0.1 =====[/B]
 
 WHAT'S NEW:
  1. Replaced all broken links.
@@ -8,7 +8,7 @@ WHAT'S NEW:
  3. Added new Spanish links including Sports.
  4. Fixed Music Section.
  5. Fixed maintenance tools like Clear Cache, etc..
- 6. Added new sports addons.
+ 6. Added new Sports addons.
  7. Revised Weather Widget.
  8. Added Setting Up MODI & MMC video to favourites and on ModTech TV submenu.
  9. Improved cache handling and buffering issues.
