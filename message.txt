@@ -11,7 +11,7 @@ TIP: Write down the following steps or take a pic for reference, then proceed to
  3. Scroll down to look for "MMC Installer Wizard" and press OK.
  4. Click on "CLEAR DATA". Click OK to confirm delete app data.
  5. Go back to Home Screen and click on MEDIA CENTER.
- 6. Click on "INSTALL MMC".
+ 6. Click on "INSTALL MMC" (Ignore any popups by pressing OK to continue).
  7. After successful download and extraction, reboot MODI using the switch in the back of the device.
  8. Thats it! Get notified of all updates faster, join our Facebook Group: [B]https://www.facebook.com/groups/modtechglobal[/B].
 
