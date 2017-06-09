@@ -1,19 +1,15 @@
 8 
 |||
-[B]===== WELCOME TO MODI MEDIA CENTER 5.0.1 =====[/B]
+[B]===== WELCOME TO MODI MEDIA CENTER 5.0.2 =====[/B]
 
 WHAT'S NEW:
  1. Replaced all broken links.
- 2. Added subtitle server.
- 3. Added new Spanish links including Sports.
- 4. Fixed Music Section.
- 5. Fixed maintenance tools like Clear Cache, etc..
- 6. Added new Sports addons.
- 7. Revised Weather Widget.
- 8. Added Setting Up MODI & MMC video to favourites and on ModTech TV submenu.
- 9. Improved cache handling and buffering issues.
- 10. Many more...
+ 2. Fixed TFC.tv with all new features (Live stream, movies, radio & more).
+ 3. Added more Live Channels.
+ 4. Added Adult content with passcode requirement.
+ 5. Added new Sports addons.
+ 6. And many more...
 
 Please report bugs and issues to helpdesk@modtechglobal.com or go to [B][COLOR white]www.modtechglobal.com/helpdesk[/COLOR][/B]. Thank you.
 
-Released April 12, 2017
+Released June 9, 2017
