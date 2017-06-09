@@ -4,7 +4,7 @@
 
 [B][COLOR white]New MMC version 5.0.2 is now available![/COLOR][/B] - This update resolves several broken links, added fix for those who uses TFC.TV(The Filipino Channel), added several addons including live news, sports & adult channels. Also added some minor bug fixes and improvements. 
 
-TIP: Write down the following steps or take a pic using your smartphone for reference, then proceed to updating MMC. 
+TIP: Write down the following steps or take a pic for reference, then proceed to updating MMC. 
 
  1. Go back to Home Screen by pressing the HOME button on your remote.
  2. Go to Settings>System Settings>Apps.
@@ -15,4 +15,6 @@ TIP: Write down the following steps or take a pic using your smartphone for refe
  7. After successful download and extraction, reboot MODI using the switch in the back of the device.
  8. Thats it! 
 
-Please report bugs and issues to helpdesk@modtechglobal.com or go to [B][COLOR white]www.modtechglobal.com/helpdesk[/COLOR][/B]. Thank you.
+Please report bugs and issues to helpdesk@modtechglobal.com or go to [B][COLOR white]www.modtechglobal.com/helpdesk[/COLOR][/B]. 
+
+Get notified of all the latest updates faster, get assistance from other affiliates, or join discussions at our Facebook Group Page: [B]https://www.facebook.com/groups/modtechglobal[/B]. 
