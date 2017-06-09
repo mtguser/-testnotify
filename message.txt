@@ -3,6 +3,7 @@
 [B]===== WELCOME TO MODI MEDIA CENTER 5.0.2 =====[/B]
 
 WHAT'S NEW:
+
  1. Replaced all broken links.
  2. Fixed TFC.tv with all new features (Live stream, movies, radio & more).
  3. Added more Live Channels.
