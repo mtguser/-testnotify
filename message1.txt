@@ -1,0 +1,17 @@
+8 
+|||
+[B]===== WELCOME TO MODI MEDIA CENTER 5.0.2 =====[/B]
+
+WHAT'S NEW:
+
+ 1. Replaced all broken links.
+ 2. Fixed issues with TFC.tv(The Filipino Channel). Added new features: Livestreaming for shows & radios.
+ 3. Added more Live Channels: News, Sports, and many more.
+ 4. Added Adult content with passcode requirement.
+ 5. Added new Sports addons.
+ 6. Few other bug fixes.
+ 6. And many more...
+
+Please report bugs and issues to helpdesk@modtechglobal.com or go to [B][COLOR white]www.modtechglobal.com/helpdesk[/COLOR][/B]. Thank you.
+
+Released June 9, 2017
