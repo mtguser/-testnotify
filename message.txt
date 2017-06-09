@@ -1,17 +1,18 @@
 8 
 |||
-[B]===== WELCOME TO MODI MEDIA CENTER 5.0.2 =====[/B]
+[B]===== MODI MEDIA CENTER(MMC) UPDATE ANNOUNCEMENT  =====[/B]
 
-WHAT'S NEW:
+[B][COLOR white]New MMC version 5.0.2 is now available![/COLOR][/B] - This update resolves several broken links, added fix for those who uses TFC.TV(The Filipino Channel), added several addons including live news, sports & adult channels and other minor bug fixes and improvements. Please follow these simply steps to update:
 
- 1. Replaced all broken links.
- 2. Fixed issues with TFC.tv(The Filipino Channel). Added new features: Livestreaming for shows & radios.
- 3. Added more Live Channels: News, Sports, and many more.
- 4. Added Adult content with passcode requirement.
- 5. Added new Sports addons.
- 6. Few other bug fixes.
- 6. And many more...
+TIP: Write down these steps or take a pic using your smartphone for reference.
+
+ 1. Go back to Home Screen by pressing the HOME button on your remote.
+ 2. Go to Settings>System Settings>Apps.
+ 3. Scroll down to look for "MMC Installer Wizard" and press OK.
+ 4. Click on "CLEAR DATA". Click OK to confirm delete app data.
+ 5. Go back to Home Screen and click on MEDIA CENTER.
+ 6. Click on "INSTALL MMC".
+ 7. After successful download and extraction, reboot MODI using the switch in the back of the device.
+ 8. Thats it! 
 
 Please report bugs and issues to helpdesk@modtechglobal.com or go to [B][COLOR white]www.modtechglobal.com/helpdesk[/COLOR][/B]. Thank you.
-
-Released June 9, 2017
