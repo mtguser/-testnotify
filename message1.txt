@@ -1,19 +1,19 @@
-8 
+9 
 |||
-[B]===== WELCOME TO MODI MEDIA CENTER 5.0.2 =====[/B]
+[B]===== MODI MEDIA CENTER(MMC) UPDATE ANNOUNCEMENT  =====[/B]
 
-WHAT'S NEW:
+[B][COLOR white]New MMC version 5.0.3 is now available![/COLOR][/B] - Replaced all broken links, added several reliable servers, and many more improvements added. TIP: Write down the following steps or take a pic for reference.
 
- 1. Replaced all broken links.
- 2. Fixed issues with TFC.tv(The Filipino Channel). Added new features: Livestreaming for shows & radios.
- 3. Added more Live Channels: News, Sports, and many more.
- 4. Added Adult content with passcode requirement.
- 5. Added new Sports addons.
- 6. Few other bug fixes.
- 6. And many more...
+THERE ARE TWO WAYS TO UPDATE YOUR MODI:
 
-Please report bugs and issues to helpdesk@modtechglobal.com or go to [B][COLOR white]www.modtechglobal.com/helpdesk[/COLOR][/B]. 
+1. FRESH START UPDATE - Recommended, as this will clean system before update. This will erase all user defined settings: 
+      a. Go to HOME SCREEN->SETTINGS->SYSTEM SETTINGS->APPS->MMC INSTALLER WIZARD->CLEAR DATA
+      b. Go to HOME SCREEN->MEDIA CENTER-> Click "INSTALL MMC".
+      c. After successful download & extraction, Reboot MODI.
 
-Get notified of all the latest updates faster, get assistance from other affiliates, or join discussions at ModTech Global Facebook Group: [B]https://www.facebook.com/groups/modtechglobal[/B].
+2. EASY WAY - Will retain all user defined settings:
+      a. From inside MMC, go to SHUTDOWN and press down.
+      b. Click on MMC UPDATE WIZARD then click on "MMC UPDATE (v5.0.3)" to begin update. 
+      c. After successful download & extraction, Reboot MODI
 
-Released June 9, 2017
+Get the latest MMC news & updates, add Helpdesk on Facebook: [B][COLOR white]www.facebook.com/modtechglobalhelpdesk[/COLOR][/B].
