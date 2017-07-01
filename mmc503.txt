@@ -1,0 +1,21 @@
+9 
+|||
+[B]===== WELCOME TO MODI MEDIA CENTER 5.0.3 =====[/B]
+
+WHAT'S NEW:
+
+ 1. Replaced all broken links.
+ 2. Added more Movie & TV Show servers.
+ 3. Added more Live Channels: News, Sports, and many more.
+ 4. Added Metalliq Search in favorites.
+ 4. Added 2 Adult Servers with passcode requirement - Message Helpdesk for passcodes.
+ 5. Fixed default servers for INT'L CHANNELS & KIDS SECTION.
+ 6. Few bug fixes.
+
+Please report bugs and issues to helpdesk@modtechglobal.com or go to [B][COLOR white]www.modtechglobal.com/helpdesk[/COLOR][/B]. 
+
+You can now message Helpdesk on FB messenger and get the latest MMC updates. Add Helpdesk on Facebook: 
+
+[B]https://www.facebook.com/modtechglobalhelpdesk[/B].
+
+Released July 1, 2017
