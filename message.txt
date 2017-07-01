@@ -1,18 +1,19 @@
-10 
+11 
 |||
 [B]===== MODI MEDIA CENTER(MMC) UPDATE ANNOUNCEMENT  =====[/B]
 
-[B][COLOR white]New MMC version 5.0.2 is now available![/COLOR][/B] - This update resolves several broken links, added fix for those who uses TFC.TV(The Filipino Channel), added several addons including live news, sports & adult channels. Also added some minor bug fixes and improvements. 
+[B][COLOR white]New MMC version 5.0.3 is now available![/COLOR][/B] - Replaced all broken links, added several reliable servers, and many more improvements added. TIP: Write down the following steps or take a pic for reference.
 
-TIP: Write down the following steps or take a pic for reference, then proceed to updating MMC. 
+THERE ARE TWO WAYS TO UPDATE YOUR MODI:
 
- 1. Go back to Home Screen by pressing the HOME button on your remote.
- 2. Go to Settings>System Settings>Apps.
- 3. Scroll down to look for "MMC Installer Wizard" and press OK.
- 4. Click on "CLEAR DATA". Click OK to confirm delete app data.
- 5. Go back to Home Screen and click on MEDIA CENTER.
- 6. Click on "INSTALL MMC" (Ignore any popups by pressing OK to continue).
- 7. After successful download and extraction, reboot MODI using the switch in the back of the device.
- 8. Thats it! Get notified of all updates faster, join our Facebook Group: [B]https://www.facebook.com/groups/modtechglobal[/B].
+1. FRESH START UPDATE - Recommended, as this will clean system before update. This will erase all user defined settings: 
+      a. Go to HOME SCREEN->SETTINGS->SYSTEM SETTINGS->APPS->MMC INSTALLER WIZARD->CLEAR DATA
+      b. Go to HOME SCREEN->MEDIA CENTER-> Click "INSTALL MMC".
+      c. After successful download & extraction, Reboot MODI.
 
-Please report bugs and issues to helpdesk@modtechglobal.com or go to [B][COLOR white]www.modtechglobal.com/helpdesk[/COLOR][/B].
+2. EASY WAY - Will retain all user defined settings:
+      a. From inside MMC, go to SHUTDOWN and press down.
+      b. Click on MMC UPDATE WIZARD then click on "MMC UPDATE (v5.0.3)" to begin update. 
+      c. After successful download & extraction, Reboot MODI
+
+Get the latest MMC news & updates, add Helpdesk on Facebook: [B][COLOR white]www.facebook.com/modtechglobalhelpdesk[/COLOR][/B].
