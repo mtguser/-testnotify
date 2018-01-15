@@ -1,19 +1,18 @@
-11 
+15 
 |||
 [B]===== MODI MEDIA CENTER(MMC) UPDATE ANNOUNCEMENT  =====[/B]
 
-[B][COLOR white]New MMC version 5.0.3 is now available![/COLOR][/B] - Replaced all broken links, added several reliable servers, and many more improvements added. TIP: Write down the following steps or take a pic for reference.
+[B][COLOR white]New MMC version 5.0.4 is now available![/COLOR][/B] - Replaced all broken links, expanded Karaoke Section, fixed Sports & Kids section and added more Live International Channels - US, Philippines, Asia & Europe. Tip: Take a photo of the following instructions:
 
-THERE ARE TWO WAYS TO UPDATE YOUR MODI:
+FOLLOW THESE SIMPLE STEPS TO UPGRADE MMC to version 5.0.4
 
-1. FRESH START UPDATE - Recommended, as this will clean system before update. This will erase all user defined settings: 
-      a. Go to HOME SCREEN->SETTINGS->SYSTEM SETTINGS->APPS->MMC INSTALLER WIZARD->CLEAR DATA
-      b. Go to HOME SCREEN->MEDIA CENTER-> Click "INSTALL MMC".
-      c. After successful download & extraction, Reboot MODI.
+1. Restart MODI or If you just powered on your MODI wait for a few minutes before you begin.
+2. After restart, go to SETTINGS>SYSTEM SETTINGS>APPS> the look for "MODI MEDIA CENTER" then click OK.
+3. Inside "MODI MEDIA CENTER" click on "CLEAR DATA".
+4. Go back to Home Screen and click on "MEDIA CENTER".
+5. Read instructions and click "INSTALL MMC".
+6. After successful download & extraction, restart MODI.
 
-2. EASY WAY - Will retain all user defined settings:
-      a. From inside MMC, go to SHUTDOWN and press down.
-      b. Click on MMC UPDATE WIZARD then click on "MMC UPDATE (v5.0.3)" to begin update. 
-      c. After successful download & extraction, Reboot MODI
+For complete instructions and troubleshooting tips, follow this link: https://tinyurl.com/mmcupgrade504
 
-Get the latest MMC news & updates, add Helpdesk on Facebook: [B][COLOR white]www.facebook.com/modtechglobalhelpdesk[/COLOR][/B].
+For assistance contact Helpdesk on Facebook: [B][COLOR white]www.facebook.com/modtechglobalhelpdesk[/COLOR][/B].
