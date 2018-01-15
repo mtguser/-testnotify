@@ -1,21 +1,18 @@
-9 
+15 
 |||
-[B]===== WELCOME TO MODI MEDIA CENTER 5.0.3 =====[/B]
+[B]===== MODI MEDIA CENTER(MMC) UPDATE ANNOUNCEMENT  =====[/B]
 
-WHAT'S NEW:
+[B][COLOR white]New MMC version 5.0.4 is now available![/COLOR][/B] - Replaced all broken links, expanded Karaoke Section, fixed Sports & Kids section and added more Live International Channels - US, Philippines, Asia & Europe. Tip: Take a photo of the following instructions:
 
- 1. Replaced all broken links.
- 2. Added more Movie & TV Show servers.
- 3. Added more Live Channels: News, Sports, and many more.
- 4. Added Metalliq Search in favorites.
- 4. Added 2 Adult Servers with passcode requirement - Message Helpdesk for passcodes.
- 5. Fixed default servers for INT'L CHANNELS & KIDS SECTION.
- 6. Few bug fixes.
+FOLLOW THESE SIMPLE STEPS TO UPGRADE MMC to version 5.0.4
 
-Please report bugs and issues to helpdesk@modtechglobal.com or go to [B][COLOR white]www.modtechglobal.com/helpdesk[/COLOR][/B]. 
+1. Restart MODI or If you just powered on your MODI wait for a few minutes before you begin.
+2. After restart, go to SETTINGS>SYSTEM SETTINGS>APPS> the look for "MODI MEDIA CENTER" then click OK.
+3. Inside "MODI MEDIA CENTER" click on "CLEAR DATA".
+4. Go back to Home Screen and click on "MEDIA CENTER".
+5. Read instructions and click "INSTALL MMC".
+6. After successful download & extraction, restart MODI.
 
-You can now message Helpdesk on FB messenger and get the latest MMC updates. Add Helpdesk on Facebook: 
+For complete instructions and troubleshooting tips, follow this link: https://tinyurl.com/mmcupgrade504
 
-[B]https://www.facebook.com/modtechglobalhelpdesk[/B].
-
-Released July 1, 2017
+For assistance contact Helpdesk on Facebook: [B][COLOR white]www.facebook.com/modtechglobalhelpdesk[/COLOR][/B].
