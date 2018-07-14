@@ -9,10 +9,10 @@ WHAT'S NEW:
  3. Added more Live Channels - US, Philippines & more 
  4. Fixed Movies, TV Shows, Sports, Kids Sections
  
-TIP: MMC tends to slow doww, may reboot and some error messages may pop up, this is expected as things are getting setup in the background. For pop up messages that needed your response, the default answer or "NO" should be fine. MMC will become faster and more stable as you continue to use it.
+TIP: MMC tends to slow doww, may reboot and some error messages may pop up, this are expected in the beginning as things are getting setup and downloaded in the background. For pop up messages that require a response, the default answer or "NO" should be selected. MMC will become faster and more stable as you continue to use it.
 
 Please report bugs and issues to helpdesk@modtechglobal.com or go to [B][COLOR white]www.modtechglobal.com/helpdesk[/COLOR][/B].
 
-And as always we're here to help. Thank you and enjoy!
+And as always, we're here to help. Thank you and enjoy!
 
 Released July 9, 2018
