@@ -2,17 +2,17 @@
 |||
 [B]===== MODI MEDIA CENTER(MMC) UPDATE ANNOUNCEMENT  =====[/B]
 
-[B][COLOR white]New MMC version 5.0.4 is now available![/COLOR][/B] - Replaced all broken links, expanded Karaoke Section, fixed Sports & Kids section and added more Live International Channels - US, Philippines, Asia & Europe. Tip: Take a photo of the following instructions:
+[B][COLOR white]New MMC version 5.0.5 is now available![/COLOR][/B] - This will replace all broken links and will resolve "No Stream Available" issues. [B]THIS IS A MANDATORY UPDATE[/B] and will erase any of your saved settings as this particular update will optimize your MMC to ensure better performance. If you must keep your saved settings please email us at helpdesk@modtechglobal.com for specific instructions prior to doing the update.  
 
-FOLLOW THESE SIMPLE STEPS TO UPGRADE MMC to version 5.0.4
+FOLLOW THESE SIMPLE STEPS TO UPGRADE MMC to version 5.0.5
 
-1. Restart MODI or If you just powered on your MODI wait for a few minutes before you begin.
-2. After restart, go to SETTINGS>SYSTEM SETTINGS>APPS> the look for "MODI MEDIA CENTER" then click OK.
-3. Inside "MODI MEDIA CENTER" click on "CLEAR DATA".
+1. Restart MODI using the switch in the back of the device.
+2. Wait for a few minutes after reboot then go to SETTINGS>SYSTEM SETTINGS>APPS> then look for "MODI MEDIA CENTER" then click OK.
+3. Inside "MODI MEDIA CENTER" click "CLEAR DATA".
 4. Go back to Home Screen and click on "MEDIA CENTER".
-5. Read instructions and click "INSTALL MMC".
+5. Read instructions and when ready "INSTALL MMC".
 6. After successful download & extraction, restart MODI.
 
-For complete instructions and troubleshooting tips, follow this link: https://tinyurl.com/mmcupgrade504
+For detailed instructions and troubleshooting tips, follow this link: https://tinyurl.com/mmcupgrade505 (Take a photo)
 
 For assistance contact Helpdesk on Facebook: [B][COLOR white]www.facebook.com/modtechglobalhelpdesk[/COLOR][/B].
